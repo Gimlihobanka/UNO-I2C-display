@@ -54,7 +54,7 @@ void setup()
   rtc.setTime(1, 15, 40);
 }
 
-//Úprava 1  11
+// testovaci prostredi GITHUB
 
 void loop()
 {
@@ -64,7 +64,7 @@ void loop()
   lcd.setCursor(0, 3);
   //lcd.print(rtc.formatDate(RTCC_DATE_ASIA));
   lcd.print(rtc.formatDate());
-  delay(1000);
+  delay(100);
 
   if (Serial.available()) {
     // wait a bit for the entire message to arrive
