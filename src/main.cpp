@@ -54,7 +54,8 @@ void setup()
   rtc.setTime(1, 15, 40);
 }
 
-// testovaci prostredi GITHUB
+
+//Obnova testovani GIT
 
 void loop()
 {
