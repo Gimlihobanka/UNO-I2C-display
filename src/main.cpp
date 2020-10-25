@@ -53,7 +53,7 @@ void setup()
   //hr, min, sec
   rtc.setTime(1, 15, 40);
 }
-
+//test git
 
 //Obnova testovani GIT
 
