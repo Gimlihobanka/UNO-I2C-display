@@ -54,6 +54,8 @@ void setup()
   rtc.setTime(1, 15, 40);
 }
 //test git Pridani RTC
+// Testujeme dale
+//Novikny !!! 
 
 void loop()
 {
